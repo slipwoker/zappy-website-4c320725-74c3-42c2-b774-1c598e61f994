@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+חלילים למכירה בישראל במגוון רחב לכל רמה וסגנון. עיינו בקטלוג החלילים המקצועי שלנו וגלו את הכלי המושלם עבורכם. איכות ללא פשרות, מבחר שלא תמצאו בשום מקום אחר.
+
+### Flute Guide
+https://example.com/flute-guide
+המדריך המקיף לבחירת חליל מקצועי למוזיקאים ולמתחילים כאחד. למדו על סוגי חלילים, חומרים, טונים ואיך לבחור נכון. הידע שיהפוך אתכם לנגנים טובים יותר, במקום אחד.
+
+### About
+https://example.com/about
+צלילים בקנה נולדה מתוך אהבה עמוקה למוזיקה ולחלילים. הכירו את הצוות שמאחורי הקטלוג המוביל לחלילים בישראל, את הערכים שמנחים אותנו ואת המחויבות שלנו לאיכות ולמוזיקאים בכל הרמות.
+
+### Contact
+https://example.com/contact
+יש לכם שאלות על חליל מקצועי או חליל רוחב למתחילים? צוות המומחים שלנו כאן לעזור לכם לבחור נכון. צרו קשר עוד היום ונשמח להדריך אתכם לעבר הכלי המושלם בשבילכם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - צלילים בקנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - צלילים בקנה
+
+### Category
+https://example.com/category/:slug
+מוצרים - צלילים בקנה
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
